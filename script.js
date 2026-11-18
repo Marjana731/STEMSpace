@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const cards = document.querySelectorAll(".event-card");
 let route = [];
 
